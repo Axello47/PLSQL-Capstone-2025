@@ -1,0 +1,7 @@
+CREATE PLUGGABLE DATABASE ax_pdb_29273
+  ADMIN USER ax_admin IDENTIFIED BY ax2025
+  ROLES = (DBA)
+  FILE_NAME_CONVERT = ('/u01/app/oracle/oradata/XE/pdbseed', '/u01/app/oracle/oradata/XE/ax_pdb_29273');
+
+ALTER PLUGGABLE DATABASE ax_pdb_29273 OPEN;
+ALTER SESSION SET CONTAINER = ax_pdb_29273;
