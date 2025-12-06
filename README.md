@@ -10,18 +10,6 @@ Lecturer: Eric Maniraguha
 
 Presentation: [mon_29273_axel_medicationms_db.pptx](./mon_29273_axel_medicationms_db.pptx)
 
-# Smart Medication Reminder System
-
-**Oracle PL/SQL Capstone 2025-26**
-
-Student: **SHEMA AXEL** (ID: 29273)
-
-Institution: Adventist University of Central Africa (AUCA)
-
-Lecturer: Eric Maniraguha
-
-Presentation: [mon_29273_axel_medicationms_db.pptx](./mon_29273_axel_medicationms_db.pptx)
-
 ## 1. Problem in a sentence
 
 50% of patients forget doses → poor adherence → hospital re-admissions. This project provides providers a real-time Oracle dashboard to track and improve adherence.
