@@ -1,0 +1,4 @@
+- 1NF: removed repeating groups (one value per cell).  
+- 2NF: all non-key attributes depend on the whole PK (single-field PKs already).  
+- 3NF: no transitive dependencies; patient demographics live only in patients.  
+- BI: prescriptions will be the fact table; patients a dimension for adherence dashboard.
