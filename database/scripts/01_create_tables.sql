@@ -1,3 +1,5 @@
+CONNECT mon_29273_axel_medicationms_db/axel@localhost:1521/ax_pdb_29273
+
 CREATE TABLE patients (
   patient_id      INT PRIMARY KEY,
   full_name       VARCHAR(50) NOT NULL,
