@@ -63,9 +63,3 @@ The original spec required “employees cannot change data on weekdays”; this 
 ## 7. License & Originality
 
 This code is individual work by SHEMA AXEL, 2025. No external libraries were used; Oracle sample schemas were not used.
-
----
-
-If you'd like, I can also:
-- run a quick validation of the SQL scripts (syntax-only) or
-- add `09_trigger_audit.sql` to the `database/scripts` folder if missing.
